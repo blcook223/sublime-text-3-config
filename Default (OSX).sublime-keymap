@@ -1,0 +1,7 @@
+[
+    { "keys": ["super+right"], "command": "move_to", "args": {"to": "hardeol", "extend": false} },
+    { "keys": ["super+left"], "command": "move_to", "args": {"to": "hardbol", "extend": false} },
+    { "keys": ["super+shift+right"], "command": "move_to", "args": {"to": "hardeol", "extend": true} },
+    { "keys": ["super+shift+left"], "command": "move_to", "args": {"to": "hardbol", "extend": true} },
+    { "keys": ["super+;"], "command": "run_macro_file", "args": {"file": "Packages/User/End Line Semicolon.sublime-macro"} }
+]

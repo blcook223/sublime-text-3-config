@@ -1,0 +1,23 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[
+			{
+				"caption": "Preview",
+				"id": "side-bar-files-open-with-preview",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "Preview.app",
+									"extensions":"psd|png|jpg|jpeg|pdf",
+									"args":[]
+								},
+				"open_automatically" : false
+			}
+
+			//separator
+			// {"caption":"-"}
+		]
+	}
+]

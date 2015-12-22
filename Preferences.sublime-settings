@@ -1,0 +1,47 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_with_fields": true,
+	"auto_id_class": true,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"close_window_when_empty": true,
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"create_window_at_startup": false,
+	"drag_text": false,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".tmp",
+		"tmp",
+		".sass-cache"
+	],
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"remember_full_screen": true,
+	"reveal_on_activate": true,
+	"rulers":
+	[
+		120,
+		79
+	],
+	"scroll_past_end": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
