@@ -29,15 +29,15 @@
 <key>name</key>
 <string>mon_color</string>
 <key>scope</key>
-<string>mcol_5AADBBFF</string>
+<string>mcol_808000FF</string>
 <key>settings</key>
 <dict>
 <key>background</key>
-<string>#5AADBBFF</string>
+<string>#808000FF</string>
 <key>foreground</key>
-<string>#163136FF</string>
+<string>#FEFF7FFF</string>
 <key>caret</key>
-<string>#163136FF</string>
+<string>#FEFF7FFF</string>
 </dict>
 </dict>
 
@@ -45,15 +45,15 @@
 <key>name</key>
 <string>mon_text_color</string>
 <key>scope</key>
-<string>mcol_text_5AADBBFF</string>
+<string>mcol_text_808000FF</string>
 <key>settings</key>
 <dict>
 <key>background</key>
 <string>#2b303cFF</string>
 <key>foreground</key>
-<string>#5AADBBFF</string>
+<string>#808000FF</string>
 <key>caret</key>
-<string>#163136FF</string>
+<string>#FEFF7FFF</string>
 </dict>
 </dict>
 
