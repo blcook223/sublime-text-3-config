@@ -4,5 +4,7 @@
     { "keys": ["super+shift+right"], "command": "move_to", "args": {"to": "hardeol", "extend": true} },
     { "keys": ["super+shift+left"], "command": "move_to", "args": {"to": "hardbol", "extend": true} },
     { "keys": ["super+;"], "command": "run_macro_file", "args": {"file": "Packages/User/End Line Semicolon.sublime-macro"} },
-    { "keys": ["super+shift+o"], "command": "side_bar_folders_quick_switch" }
+    { "keys": ["super+shift+o"], "command": "side_bar_folders_quick_switch" },
+    { "keys": ["alt+super+6"], "command": "set_layout", "args": { "cols": [0.0, 0.5, 1.0], "rows": [0.0, 0.5, 1.0], "cells": [ [0, 0, 1, 2], [1, 0, 2, 1], [1, 1, 2, 2] ] } },
+    { "keys": ["alt+super+7"], "command": "set_layout", "args": { "cols": [0.0, 0.5, 1.0], "rows": [0.0, 0.5, 1.0], "cells": [ [0, 0, 1, 1], [1, 0, 2, 2], [0, 1, 1, 2] ] } }
 ]
