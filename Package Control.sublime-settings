@@ -10,6 +10,7 @@
 		"All Autocomplete",
 		"AutoFileName",
 		"BracketHighlighter",
+		"Clickable URLs",
 		"Color Highlighter",
 		"DocBlockr",
 		"DummyData",
@@ -21,6 +22,7 @@
 		"JavaScriptNext - ES6 Syntax",
 		"LineEndings",
 		"Markdown Preview",
+		"MultiEditUtils",
 		"Origami",
 		"Package Control",
 		"PlainTasks",
@@ -33,6 +35,7 @@
 		"SublimeCodeIntel",
 		"SyncedSideBar",
 		"Syntax Highlighting for Sass",
+		"TabsExtra",
 		"Theme - Spacegray"
 	]
 }
