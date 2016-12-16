@@ -23,6 +23,7 @@
 		"JavaScriptNext - ES6 Syntax",
 		"LineEndings",
 		"Markdown Preview",
+		"MarkdownEditing",
 		"Origami",
 		"Package Control",
 		"PlainTasks",
@@ -35,7 +36,7 @@
 		"SublimeCodeIntel",
 		"SyncedSideBar",
 		"Syntax Highlighting for Sass",
-		"TabsExtra",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"TypeScript"
 	]
 }

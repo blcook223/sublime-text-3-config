@@ -29,351 +29,31 @@
 <key>name</key>
 <string>mon_color</string>
 <key>scope</key>
-<string>mcol_ff55ffFF</string>
+<string>mcol_FFFFFFFF</string>
 <key>settings</key>
 <dict>
 <key>background</key>
-<string>#ff55ffFF</string>
-<key>foreground</key>
-<string>#AA00AAFF</string>
-<key>caret</key>
-<string>#AA00AAFF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_text_color</string>
-<key>scope</key>
-<string>mcol_text_ff55ffFF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#2b303cFF</string>
-<key>foreground</key>
-<string>#ff55ffFF</string>
-<key>caret</key>
-<string>#AA00AAFF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_F5F5F5FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#F5F5F5FF</string>
-<key>foreground</key>
-<string>#090909FF</string>
-<key>caret</key>
-<string>#090909FF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_text_color</string>
-<key>scope</key>
-<string>mcol_text_F5F5F5FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#2b303cFF</string>
-<key>foreground</key>
-<string>#F5F5F5FF</string>
-<key>caret</key>
-<string>#090909FF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_aa3939FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#aa3939FF</string>
-<key>foreground</key>
-<string>#391313FF</string>
-<key>caret</key>
-<string>#391313FF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_text_color</string>
-<key>scope</key>
-<string>mcol_text_aa3939FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#2b303cFF</string>
-<key>foreground</key>
-<string>#aa3939FF</string>
-<key>caret</key>
-<string>#391313FF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_4393B9FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#4393B9FF</string>
-<key>foreground</key>
-<string>#142C38FF</string>
-<key>caret</key>
-<string>#142C38FF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_text_color</string>
-<key>scope</key>
-<string>mcol_text_4393B9FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#2b303cFF</string>
-<key>foreground</key>
-<string>#4393B9FF</string>
-<key>caret</key>
-<string>#142C38FF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_f5f5f5FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#f5f5f5FF</string>
-<key>foreground</key>
-<string>#090909FF</string>
-<key>caret</key>
-<string>#090909FF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_text_color</string>
-<key>scope</key>
-<string>mcol_text_f5f5f5FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#2b303cFF</string>
-<key>foreground</key>
-<string>#f5f5f5FF</string>
-<key>caret</key>
-<string>#090909FF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_aaaa33FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#aaaa33FF</string>
-<key>foreground</key>
-<string>#3A3A11FF</string>
-<key>caret</key>
-<string>#3A3A11FF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_text_color</string>
-<key>scope</key>
-<string>mcol_text_aaaa33FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#2b303cFF</string>
-<key>foreground</key>
-<string>#aaaa33FF</string>
-<key>caret</key>
-<string>#3A3A11FF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_aaaa3399</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#aaaa3399</string>
-<key>foreground</key>
-<string>#3A3A11FF</string>
-<key>caret</key>
-<string>#3A3A11FF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_text_color</string>
-<key>scope</key>
-<string>mcol_text_aaaa3399</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#2b303cFF</string>
-<key>foreground</key>
-<string>#aaaa3399</string>
-<key>caret</key>
-<string>#3A3A11FF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_ccccccFF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#ccccccFF</string>
-<key>foreground</key>
-<string>#323232FF</string>
-<key>caret</key>
-<string>#323232FF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_text_color</string>
-<key>scope</key>
-<string>mcol_text_ccccccFF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#2b303cFF</string>
-<key>foreground</key>
-<string>#ccccccFF</string>
-<key>caret</key>
-<string>#323232FF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_0000001A</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#0000001A</string>
-<key>foreground</key>
 <string>#FFFFFFFF</string>
-<key>caret</key>
-<string>#FFFFFFFF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_text_color</string>
-<key>scope</key>
-<string>mcol_text_0000001A</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#2b303cFF</string>
-<key>foreground</key>
-<string>#0000001A</string>
-<key>caret</key>
-<string>#FFFFFFFF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_ff55ff55</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#ff55ff55</string>
-<key>foreground</key>
-<string>#AA00AAFF</string>
-<key>caret</key>
-<string>#AA00AAFF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_text_color</string>
-<key>scope</key>
-<string>mcol_text_ff55ff55</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#2b303cFF</string>
-<key>foreground</key>
-<string>#ff55ff55</string>
-<key>caret</key>
-<string>#AA00AAFF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_000000FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#000000FF</string>
-<key>foreground</key>
-<string>#FFFFFFFF</string>
-<key>caret</key>
-<string>#FFFFFFFF</string>
-</dict>
-</dict>
-
-<dict>
-<key>name</key>
-<string>mon_text_color</string>
-<key>scope</key>
-<string>mcol_text_000000FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#2b303cFF</string>
 <key>foreground</key>
 <string>#000000FF</string>
 <key>caret</key>
+<string>#000000FF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_FFFFFFFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#2b303cFF</string>
+<key>foreground</key>
 <string>#FFFFFFFF</string>
+<key>caret</key>
+<string>#000000FF</string>
 </dict>
 </dict>
 
@@ -389,9 +69,15 @@
 				<key>invisibles</key>
 				<string>#65737e</string>
 				<key>lineHighlight</key>
-				<string>#343d46</string>
+				<string>#65737e30</string>
 				<key>selection</key>
 				<string>#4f5b66</string>
+				<key>guide</key>
+				<string>#3b5364</string>
+				<key>activeGuide</key>
+				<string>#96b5b4</string>
+				<key>stackGuide</key>
+				<string>#343d46</string>
 			</dict>
 		</dict>
 		<dict>
@@ -875,6 +561,61 @@
 				<string>#bf616a</string>
 				<key>foreground</key>
 				<string>#2b303b</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter deleted</string>
+			<key>scope</key>
+			<string>markup.deleted.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F92672</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter inserted</string>
+			<key>scope</key>
+			<string>markup.inserted.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A6E22E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter changed</string>
+			<key>scope</key>
+			<string>markup.changed.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#967EFB</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter ignored</string>
+			<key>scope</key>
+			<string>markup.ignored.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#565656</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter untracked</string>
+			<key>scope</key>
+			<string>markup.untracked.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#565656</string>
 			</dict>
 		</dict>
 	</array>
